@@ -4,7 +4,7 @@ This is a very simple articles web app that works with django in the back-end an
 
 ## Goal 
 
-The intention of this repository is to serve as a start point (maybe a boilerplate) for any developer who wants to start working with django and react. This project may serve as a reference of how to build some of the most common features in web apps.
+The intention of this repository is to serve as a start point (maybe a boilerplate) for any developer who wants to start working with django and react, this project may serve as a reference of how to build some of the most common features in web apps.
 
 ## Features
 
