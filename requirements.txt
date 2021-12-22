@@ -1,0 +1,7 @@
+django==3.1.12
+djangorestframework==3.12.4
+django-rest-auth==0.9.5
+django-allauth==0.45.0
+pymongo==3.6
+# development requirements
+# django-cors-headers=3.8.0
